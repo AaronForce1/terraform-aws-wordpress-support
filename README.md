@@ -1,6 +1,6 @@
 # terraform-aws-wordpress-support
 
-[![LICENSE](https://img.shields.io/badge/license-Apache_2-blue)](https://opensource.org/licenses/Apache-2.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A custom-built terraform module, leveraging terraform's aws provider to spawn supplemental infrastructure that supports Wordpress environments. This includes:
 - AWS S3 Buckets used for uploads and static media files
