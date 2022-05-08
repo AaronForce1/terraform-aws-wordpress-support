@@ -1,0 +1,9 @@
+## Configurations to override TFSEC as S3 buckets are expected to be public for this configuration
+---
+exclude:
+  - AWS075
+  - AWS076
+  - AWS074
+  - AWS001
+  - AWS002
+  - AWS073
